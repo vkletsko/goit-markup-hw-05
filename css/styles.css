@@ -502,7 +502,7 @@ header .studio-in-logo {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 
 .socials-item {
@@ -720,7 +720,7 @@ header .studio-in-logo {
 .feedback-input {
   width: 100%;
   height: 40px;
-  padding: 8px 38px;
+  padding-left: 38px;
   border: 1px solid var(--text-color-400);
   border-radius: var(--radius-sm);
   outline: 1px solid transparent;
